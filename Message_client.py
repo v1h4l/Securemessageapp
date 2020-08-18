@@ -1,5 +1,6 @@
 #once reaceived connection initiates handshake ad the output send
 import socket
+# main function
 
 def Main():
     # set host to your own specification
