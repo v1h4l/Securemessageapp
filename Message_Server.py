@@ -7,7 +7,7 @@ import socket
 
 def main():
     host = '127.0.0.1'
-    port = 8090
+    port = 5555
     
     sock = socket.socket()
     sock.bind((host, port))
