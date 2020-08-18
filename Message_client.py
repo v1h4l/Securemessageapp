@@ -1,10 +1,12 @@
-#once reaceived connection initiates handshake ad the output send
+#client tool
+
+#import socket library
+
 import socket
-# main function
 
 def Main():
-    # set host to your own specification
     host = "0.0.0.0"
+    #modiy this port for yout own port
     port = 5555
     #port number
     
