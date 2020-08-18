@@ -1,6 +1,8 @@
+
 # client tool 
 
 #import socket library
+
 
 import socket
 
@@ -9,7 +11,9 @@ def Main():
 
 
     host = "0.0.0.0"
+
     # modify this port for your own port
+
     port = 5555
     
     sock = socket.socket()
@@ -23,6 +27,6 @@ def Main():
         message = input(">> ")
         
     sock.close()
-    
+#finish the script    
 if __name__ =='__main__':
     Main()
