@@ -1,14 +1,16 @@
+<<<<<<< HEAD
 #client tool
 
 #import socket library
 
+=======
+>>>>>>> master
 import socket
 
 def Main():
     host = "0.0.0.0"
     #modiy this port for yout own port
     port = 5555
-    #port number
     
     sock = socket.socket()
     sock.connect((host, port))    
