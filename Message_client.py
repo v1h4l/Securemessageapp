@@ -1,3 +1,7 @@
+# client tool 
+
+#import socket library
+
 import socket
 
 def Main():
