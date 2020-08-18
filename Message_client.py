@@ -1,6 +1,10 @@
+#
+
+
 import socket
 
 def Main():
+    # set host to your own specification
     host = "0.0.0.0"
     port = 5555
     
