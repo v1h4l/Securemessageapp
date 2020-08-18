@@ -1,3 +1,7 @@
+# server script
+
+
+
 import optparse
 import socket
 
