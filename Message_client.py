@@ -6,6 +6,7 @@ def Main():
     # set host to your own specification
     host = "0.0.0.0"
     port = 5555
+    #port number
     
     sock = socket.socket()
     sock.connect((host, port))    
