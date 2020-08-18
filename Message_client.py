@@ -1,20 +1,24 @@
-<<<<<<< HEAD
-#client tool
+
+# client tool 
 
 #import socket library
 
-=======
->>>>>>> master
+
 import socket
 
 def Main():
+
+
+
     host = "0.0.0.0"
-    #modiy this port for yout own port
+
+    # modify this port for your own port
+
     port = 5555
     
     sock = socket.socket()
     sock.connect((host, port))    
-
+    # output after a successfull connection
     message = input(">> ")
     while message != 'q':
         sock.sendto(message)
