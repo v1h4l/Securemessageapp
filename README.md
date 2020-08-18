@@ -18,7 +18,7 @@ If One wants to redistribute or learn from the program, I have included 2 python
 shows simple server and client to connect and run the program with ease.
 
 # Installation
- # first things first
+  first things first
    # Installing dependencies and requirements
 
      # Unix
@@ -52,14 +52,16 @@ shows simple server and client to connect and run the program with ease.
 
 ################################################
 # Server.py usage
+
 $ python3.x server.py
+
+
 ##################################################
 # msgapp.py usage
 
 $ python.3.x msgapp.py
 
-
-# Enjoy and feel free to report any Bug or updates, Thank you.
+Enjoy and feel free to report any Bug or updates, Thank you.
 
 
 
