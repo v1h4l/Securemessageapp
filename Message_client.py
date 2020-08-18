@@ -1,6 +1,5 @@
-#
-
-
+#Feiasl
+#once reaceived connection initiates handshake ad the output send
 import socket
 
 def Main():
