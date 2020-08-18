@@ -1,13 +1,23 @@
+
 import socket
 
 def Main():
     host = "127.0.0.1"
-    #modiy this port for yout own port
+
+
+import socket
+
+def Main():
+
+
+
+    host = "0.0.0.0"
+
     port = 5555
     
     sock = socket.socket()
     sock.connect((host, port))    
-
+    # output after a successfull connection
     message = input(">> ")
     while message != 'q':
         sock.sendto(message)
