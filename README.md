@@ -25,16 +25,7 @@ shows simple server and client to connect and run the program with ease.
       $  sudo apt-get install python3.x
        >  where x in the version of python, I recoment the latest https://www.python.org/downloads/
        # installing pip
-         #Install PIP On Debian/Ubuntu
-         $ apt install python-pip	#python 2
-         $ apt install python3-pip	#python 3
         > see https://pip.pypa.io/en/stable/installing/ Depending on your python version
-         #Install PIP On CentOS and RHEL
-          $ yum install epel-release 
-          $ yum install python-pip
-         # Install PIP on Fedora
-          $ dnf install python-pip	#Python 2
-          $ dnf install python3		#Python 3
        # How to install PyQt5 on Linux?
          $ python --version
         # On Ubuntu Linux / Debian Linux you can use the command:
@@ -57,7 +48,7 @@ shows simple server and client to connect and run the program with ease.
      >  see https://riverbankcomputing.com/static/Docs/PyQt5/installation.html
 
      
-after you have finished setting up your environment. You are good to go.
+# after you have finished setting up your environment. You are good to go.
 
 ################################################
 # Server.py usage
@@ -69,13 +60,17 @@ $ python3.x server.py
 # msgapp.py usage
 
 $ python.3.x msgapp.py
+#Screenshots
+https://github.com/v1h4l/Securemessageapp/blob/master/Screenshots/test-1.jpg
 
 #Unit test result
 1. Done testing found in server.py
-   port setting could not connect with clientdue to misconfigured ip address line
+   port setting could not connect with clientdue to misconfigured ip addr>
    Screenshot here
 1. failed test due to connection timeout
-  Screenshot 
+  Screenshot
+
+
 
 
 Enjoy and feel free to report any Bug or updates, Thank you.
