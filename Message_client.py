@@ -15,6 +15,6 @@ def Main():
         message = input(">> ")
         
     sock.close()
-    
+#finish the script    
 if __name__ =='__main__':
     Main()

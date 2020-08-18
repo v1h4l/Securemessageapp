@@ -7,7 +7,7 @@
                                   |___/             |_|   |_|  
 
 # A simple message app with Qt5 framework
-
+With encryption to make communication secure
 ###########################################
 
 secure message app is a simple chat room script in python. This App uses AES encryption for secured data transfer over public network. 
