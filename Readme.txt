@@ -13,6 +13,7 @@ sudo chmod +x install.sh
 
 then run the script to install all dependencies and excecutes the program upon finishing installation.
 
+good luck and  thankyou.
 
 
 

@@ -8,11 +8,7 @@ def Main():
 import socket
 
 def Main():
-
-
-
     host = "0.0.0.0"
-
     port = 5555
     
     sock = socket.socket()
